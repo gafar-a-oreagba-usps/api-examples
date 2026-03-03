@@ -1,4 +1,4 @@
-﻿# USPS API for Gafar
+﻿# USPS API for 
 The USPS Developer Portal is for software developers who would like to integrate Postal Service functionality into their ecommerce, shipping, or logistics systems. Access and use USPS tools and resources conveniently within your site or application. You have the ability to try out the APIs in our Test environment.
 
 ## Getting Started
